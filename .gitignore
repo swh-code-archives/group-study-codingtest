@@ -1,0 +1,9 @@
+*.settings
+*bin
+*project
+*classpath
+*.idea
+*out
+group-study-codingtest.iml
+src/module-info.java
+
