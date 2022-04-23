@@ -1,7 +1,12 @@
-## Pull Request strategy
+## 문제 푼 목록
 
-Fork -> Pull Request -> Merge
+| name | solved problem |
+|: --- :|:---|
+| 김종수 | <ul><li> - [ ] sdfdfsdf </li> <li> - [ ] sdfdfsdf </li> </ul>    |
+| 김현 | 셀 내용    |
+| 한상우 | 셀 내용    |
 
----
 
-#### Java 11
+```
+
+```
