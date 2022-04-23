@@ -1,2 +1,7 @@
-# group-study-codingtest
-study codingtest and algorithm
+## Pull Request strategy
+
+Fork -> Pull Request -> Merge
+
+---
+
+#### Java 11
