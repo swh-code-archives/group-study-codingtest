@@ -18,8 +18,13 @@ Study Policy
 |백준 11659 |https://www.acmicpc.net/problem/11659 |:heavy_check_mark:|:x:|:x:|
 |백준 11660 |https://www.acmicpc.net/problem/11660 |:heavy_check_mark:|:x:|:x:|
 |백준 11720 |https://www.acmicpc.net/problem/11720 |:heavy_check_mark:|:x:|:x:|
-
+|백준 1874  |https://www.acmicpc.net/problem/11720 |:heavy_check_mark:|:x:|:x:|
+|백준 2164  |https://www.acmicpc.net/problem/2164  |:heavy_check_mark:|:x:|:x:|
 
 ---
-
+###2022-04-26 자료구조(스택, 큐)  
+####스택 과 큐  
+백준 1874 : 스택으로 오름차순 수열 만들기 (Stack)  
+백준 2164 : 카드게임 (Queue)
+---
 ## 프로그래머스
